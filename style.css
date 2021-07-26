@@ -5,14 +5,18 @@ color: #614e1a
 }
 
 h2{
-     front-size : 20px;
+     front-size : 15px;
      text-align: left;
      color: #614e1a ;
 }
+
 body{
-font-size: 16px;
+font-size: 10px;
 font-family: Helvetica, sans-serif;
 color: #242424;
 }
- 
-background-image:url(images/ravenna.png);
+
+body{
+     background:#1310AC ;
+}
+#background-image:url(images/ravenna.png);
