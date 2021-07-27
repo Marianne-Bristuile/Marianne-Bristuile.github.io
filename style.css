@@ -16,7 +16,6 @@ font-family: Helvetica, sans-serif;
 color: #242424;
 }
 
-body{
-     background:#1310AC ;
-}
-#background-image:url(images/ravenna.png);
+#body{background:#1310AC ;}
+
+background-image:url(images/ravenna.png);
